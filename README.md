@@ -88,9 +88,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </div>
 </body>
 </html>
-# OUTPUT:
-(https://user-images.githubusercontent.com/119830477/214817755-8613a03b-3884-4c13-b204-26f345073c6f.png)
+#OUTPUT:
 
+
+![Screenshot_20230126_041722](https://user-images.githubusercontent.com/119830477/214818156-bac5cea7-5f60-44dd-82be-2612dc60100c.png)
 
 # RESULT:
 
